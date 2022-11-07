@@ -67,6 +67,7 @@
     <string name="bottom_nav_music_title">Music</string>
     <string name="bottom_nav_places_title">Places</string>
     <string name="bottom_nav_news_title">News</string>
+    <string name="bottom_nav_movies_title">Movies</string>
 
     <string name="switch_label_title">Switch</string>
 

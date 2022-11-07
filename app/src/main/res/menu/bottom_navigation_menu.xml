@@ -37,4 +37,9 @@
       android:title="@string/bottom_nav_news_title"
       android:icon="@drawable/ic_news_on_surface_24dp"/>
 
+    <item
+        android:id="@+id/bottom_nav_movies"
+        android:title="@string/bottom_nav_movies_title"
+        android:icon="@drawable/ic_news_on_surface_24dp"/>
+
 </menu>
