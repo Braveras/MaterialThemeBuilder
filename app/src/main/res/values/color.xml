@@ -62,4 +62,8 @@
     <!--color on surface (light)-->
     <color name="black_900">#000000</color>
 
+    <color name="lime_100">#379237</color>
+    <color name="lime_200">#54B435</color>
+    <color name="lime_300">#F0FF42</color>
+
 </resources>

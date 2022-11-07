@@ -75,34 +75,37 @@
       app:layout_constraintTop_toTopOf="@+id/button_text" />
 
     <com.google.android.material.button.MaterialButtonToggleGroup
-      android:id="@+id/button_group"
-      android:layout_width="wrap_content"
-      android:layout_height="wrap_content"
-      android:layout_marginTop="@dimen/keyline_5"
-      app:layout_constraintTop_toBottomOf="@+id/button_filled"
-      app:layout_constraintStart_toStartOf="parent">
+    android:id="@+id/button_group"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/keyline_5"
+    app:layout_constraintTop_toBottomOf="@+id/button_filled"
+    app:layout_constraintStart_toStartOf="parent">
 
-        <Button
-          style="?attr/materialButtonOutlinedStyle"
-          android:id="@+id/button_one"
-          android:layout_width="wrap_content"
-          android:layout_height="wrap_content"
-          android:text="@string/button_left_button_label" />
+    <Button
+        style="?attr/materialButtonOutlinedStyle"
+        android:id="@+id/button_one"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_left_button_label"
+        android:backgroundTint="@color/lime_300"/>
 
-        <Button
-          style="?attr/materialButtonOutlinedStyle"
-          android:id="@+id/button_center"
-          android:layout_width="wrap_content"
-          android:layout_height="wrap_content"
-          android:text="@string/button_center_button_label" />
+    <Button
+        style="?attr/materialButtonOutlinedStyle"
+        android:id="@+id/button_center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_center_button_label"
+        android:backgroundTint="@color/lime_200"/>
 
-        <Button
-          style="?attr/materialButtonOutlinedStyle"
-          android:id="@+id/button_three"
-          android:layout_width="wrap_content"
-          android:layout_height="wrap_content"
-          android:text="@string/button_right_button_label" />
+    <Button
+        style="?attr/materialButtonOutlinedStyle"
+        android:id="@+id/button_three"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_right_button_label"
+        android:backgroundTint="@color/lime_100"/>
 
-    </com.google.android.material.button.MaterialButtonToggleGroup>
+</com.google.android.material.button.MaterialButtonToggleGroup>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
