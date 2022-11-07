@@ -50,9 +50,9 @@
             <ImageView
               android:id="@+id/card_header"
               android:layout_width="match_parent"
-              android:layout_height="192dp"
+              android:layout_height="330dp"
               android:scaleType="centerCrop"
-              app:srcCompat="@drawable/sample_image"
+              app:srcCompat="@drawable/gokusan"
               app:tint="?attr/colorSurface"
               app:tintMode="multiply"
               app:layout_constraintTop_toTopOf="parent"
