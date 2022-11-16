@@ -3,6 +3,27 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Segundo DAM/Interfaces (Ernesto)/MaterialThemeBuilder/app/src/main/res/drawable/gradient.xml" value="0.2155" />
+        <entry key="..\:/Segundo DAM/Interfaces (Ernesto)/MaterialThemeBuilder/app/src/main/res/layout/activity_main.xml" value="0.3061594202898551" />
+        <entry key="..\:/Segundo DAM/Interfaces (Ernesto)/MaterialThemeBuilder/app/src/main/res/layout/color_attribute_view_layout.xml" value="0.3061594202898551" />
+        <entry key="..\:/Segundo DAM/Interfaces (Ernesto)/MaterialThemeBuilder/app/src/main/res/layout/component_bottom_app_bar.xml" value="0.3061594202898551" />
+        <entry key="..\:/Segundo DAM/Interfaces (Ernesto)/MaterialThemeBuilder/app/src/main/res/layout/component_bottom_navigation.xml" value="0.3061594202898551" />
+        <entry key="..\:/Segundo DAM/Interfaces (Ernesto)/MaterialThemeBuilder/app/src/main/res/layout/component_fabs.xml" value="0.3061594202898551" />
+        <entry key="..\:/Segundo DAM/Interfaces (Ernesto)/MaterialThemeBuilder/app/src/main/res/layout/component_radio_button.xml" value="0.3061594202898551" />
+        <entry key="..\:/Segundo DAM/Interfaces (Ernesto)/MaterialThemeBuilder/app/src/main/res/layout/component_snackbar.xml" value="0.3061594202898551" />
+        <entry key="..\:/Segundo DAM/Interfaces (Ernesto)/MaterialThemeBuilder/app/src/main/res/layout/component_switch.xml" value="0.3061594202898551" />
+        <entry key="..\:/Segundo DAM/Interfaces (Ernesto)/MaterialThemeBuilder/app/src/main/res/layout/component_tabs.xml" value="0.3061594202898551" />
+        <entry key="..\:/Segundo DAM/Interfaces (Ernesto)/MaterialThemeBuilder/app/src/main/res/layout/component_text_field.xml" value="0.3061594202898551" />
+        <entry key="..\:/Segundo DAM/Interfaces (Ernesto)/MaterialThemeBuilder/app/src/main/res/layout/component_top_app_bar.xml" value="0.3061594202898551" />
+        <entry key="..\:/Segundo DAM/Interfaces (Ernesto)/MaterialThemeBuilder/app/src/main/res/layout/drawer_header_layout.xml" value="0.3061594202898551" />
+        <entry key="..\:/Segundo DAM/Interfaces (Ernesto)/MaterialThemeBuilder/app/src/main/res/layout/fragment_component.xml" value="0.3061594202898551" />
+        <entry key="..\:/Segundo DAM/Interfaces (Ernesto)/MaterialThemeBuilder/app/src/main/res/layout/fragment_instructions.xml" value="0.3061594202898551" />
+        <entry key="..\:/Segundo DAM/Interfaces (Ernesto)/MaterialThemeBuilder/app/src/main/res/layout/fragment_theme_summary.xml" value="0.3061594202898551" />
+        <entry key="..\:/Segundo DAM/Interfaces (Ernesto)/MaterialThemeBuilder/app/src/main/res/layout/label_view_layout.xml" value="0.3061594202898551" />
+        <entry key="..\:/Segundo DAM/Interfaces (Ernesto)/MaterialThemeBuilder/app/src/main/res/layout/shape_attribute_view_layout.xml" value="0.3061594202898551" />
+        <entry key="..\:/Segundo DAM/Interfaces (Ernesto)/MaterialThemeBuilder/app/src/main/res/layout/subsystem_color.xml" value="0.3061594202898551" />
+        <entry key="..\:/Segundo DAM/Interfaces (Ernesto)/MaterialThemeBuilder/app/src/main/res/layout/subsystem_shape.xml" value="0.3061594202898551" />
+        <entry key="..\:/Segundo DAM/Interfaces (Ernesto)/MaterialThemeBuilder/app/src/main/res/layout/subsystem_type.xml" value="0.3061594202898551" />
         <entry key="..\:/Users/am12DAM2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/activity_main.xml" value="0.21240942028985507" />
       </map>
     </option>
