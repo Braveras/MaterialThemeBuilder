@@ -37,13 +37,13 @@ Once you build your Material theme, move the theme resources (`color.xml`, `type
 
 ### Cambio #1:
 
-[imagen1](link)
+[imagen1](https://raw.githubusercontent.com/Braveras/MaterialThemeBuilder/master/cambioboton.png)
 
 ### Cambio #2:
 
-[imagen2](link)
+[imagen2](https://raw.githubusercontent.com/Braveras/MaterialThemeBuilder/master/cambiobutton.png)
 
 ### Cambio #3:
 
-[imagen3](link)
+[imagen3](https://raw.githubusercontent.com/Braveras/MaterialThemeBuilder/master/cambioorientacion.png)
 
