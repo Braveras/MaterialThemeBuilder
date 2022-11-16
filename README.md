@@ -32,3 +32,18 @@ Sync, build and run the project. The project, by default, will be configured wit
 Under the ‘res’ folder, open `color.xml`, `type.xml` and `shape.xml`. Each file has detailed comments describing the Material subsystem it controls. Try modifying each subsystem, re-running the app and seeing how changes are propagated throughout the app.
 
 Once you build your Material theme, move the theme resources (`color.xml`, `type.xml`, `shape.xml`, `styles.xml`, `themes.xml` and `night/themes.xml`) over to your app to start using your Material theme in your own projects.
+
+
+
+### Cambio #1:
+
+[imagen1](link)
+
+### Cambio #2:
+
+[imagen2](link)
+
+### Cambio #3:
+
+[imagen3](link)
+
